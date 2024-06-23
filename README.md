@@ -22,7 +22,7 @@
 
 - **Step 1**: Clone `https://github.com/bkhmsi/brain-score-language` in root directory of repository.
 - **Step 2**: Follow setup instructions in the `brain-score-language` repository `README.md`
-- **Step 2**: See `brain-alignment/scripts` for examples of measuring brain alignment of different model configurations on the 5 benchmarks.
+- **Step 3**: See `brain-alignment/scripts` for examples of measuring brain alignment of different model configurations on the 5 benchmarks.
 
 ### Analyses
 TBD
