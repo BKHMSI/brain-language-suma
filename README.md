@@ -1,8 +1,6 @@
 # Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network 
 
- **Paper Link**: TBD
-
- <!-- [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2406.15109-b31b1b.svg)](https://arxiv.org/abs/2406.15109)
 
 **Authors**: Badr AlKhamissi, Greta Tuckute, Antoine Bosselut*, Martin Schrimpf*
 
@@ -28,4 +26,12 @@
 TBD
 
 ## Citation
-TBD
+```
+@article{alkhamissi2024brainlike,
+    title={Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network}, 
+    author={Badr AlKhamissi and Greta Tuckute and Antoine Bosselut and Martin Schrimpf},
+    year={2024},
+    eprint={2406.15109},
+    archivePrefix={arXiv}
+}
+```
